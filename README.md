@@ -1,1 +1,1 @@
-# ECEN_248
+# ECEN-248 Digital Design
